@@ -1,10 +1,10 @@
-# Modular angular skeleton
+Modular angular skeleton
 
 #### Angular skeleton app with sass, coffee in a modular way
 
 ## Demo
     
-[http://nhim175.github.io/]()
+[http://nhim175.github.io/](http://nhim175.github.io/)
 
 ## Installation
 
@@ -40,4 +40,7 @@
         `-- User.coffee
 
 ## Demo source code
-[https://github.com/nhim175/modular-angular-skeleton-demo]()
+[https://github.com/nhim175/modular-angular-skeleton-demo](https://github.com/nhim175/modular-angular-skeleton-demo)
+
+
+    
